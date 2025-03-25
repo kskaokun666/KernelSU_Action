@@ -44,7 +44,7 @@ jobs:
               ENABLE_SUSFS
               SUSFS_SOURCE
               SUSFS_SOURCE_BRANCH
-              SUSFS_KERNELSU_MOD
+              SUSFS_KERNELSU_MODE
               SUSFS_KERNEL_VERSION
               ENABLE_KERNELSU
               ENABLE_KERNELSU_NONGKI_PATCH
